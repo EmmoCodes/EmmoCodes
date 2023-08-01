@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently learning **React.js**
+
 - 📫 How to reach me **Gianluca1996@gmx.de**
 
 - ⚡ Fun fact **Created interfaces for World of Warcraft and my friends did 0.1% titles with it and world top 200 cutting edge.**
