@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">Learning Full-Stack Software Developer</h3>
 
-- 🌱 I’m currently learning **Backend course starting 28.8 🔥**
+- 🌱 I’m currently learning: **Backend course starting 28.8 🔥**
 
-- 🚀 Current Stacks **Front-End (Backend coming soon)**
+- 🚀 Current Stacks: **Front-End (Backend coming soon)**
 
-- 📫 How to reach me **Gianluca1996@gmx.de**
+- 📫 How to reach me: **Gianluca1996@gmx.de**
 
-- ⚡ Fun fact **did interfaces for World of Warcraft and my friends did 0.5% titles with it and world top 200 curves.**
+- ⚡ Fun fact: **did interfaces for World of Warcraft and my friends did 0.5% titles with it and world top 200 curves.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
