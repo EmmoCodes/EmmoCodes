@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **Gianluca1996@gmx.de**
 
-- ⚡ Fun fact: **did interfaces for World of Warcraft and my friends did 0.5% titles with it and world top 200 curves.**
+- ⚡ Fun fact: **created interfaces for World of Warcraft and my friends did 0.5% titles with it and world top 200 curves.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
