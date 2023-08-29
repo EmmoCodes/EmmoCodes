@@ -25,3 +25,5 @@ I've started coding 2022 when i've created some wow interfaces and looked a bit 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marco-orlandi-46010727a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco-orlandi-46010727a/" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmocodes&show_icons=true&locale=en&layout=compact" alt="emmocodes" /></p>
