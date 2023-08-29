@@ -7,8 +7,8 @@ Frontend Webdeveloper
 I've started coding 2022 when i've created some wow interfaces and looked a bit into LUA code. After that i realized that coding is completely my type of hobby and want to change this to my job. Now I'm here completed Frontend and doing Backend at the moment, after my Backend course i want to learn Angular, React native and Typescript to get into App-development.
 
 * 🌍  I'm based in Bavaria, Munich
-* 🚀 Current Stacks **Front-End**
-* 🧠  I'm learning Backend
+* 🚀 Current Stacks: **Front-End**
+* 🧠  I'm currently learning Backend
 * ✉️  You can contact me at [Gianluca1996@gmx.de](mailto:Gianluca1996@gmx.de)
 * ⚡  Fun fact: created interfaces for World of Warcraft and my friends did 0.1% worldwide titles with it and world top 200 curves.
 
