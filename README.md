@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Webdeveloper
 ---------------------
 
-I've started coding 2022 when i've created some wow interfaces and looked a bit into LUA code. After that i realized that coding is completely my type of hobby and want to change this to my job. Now I'm here completed Frontend and doing Backend at the moment, after my Backend course i want to learn Angular, React native and Typescript to get into App-development.
+I've started coding 2022 when i've created some wow interfaces and looked a bit into LUA code. After that i realized that coding is completely my type of hobby and want to do this as my job. Now I'm here completed Frontend and doing Backend at the moment, after my Backend course i want to learn Angular, React native and Typescript to get into App-development.
 
 * 🌍  I'm based in Bavaria, Munich
 * 🚀   My current stack is **Front-End**
