@@ -10,7 +10,7 @@ I've started coding 2022 when i've created some wow interfaces and looked a bit 
 * 🚀   My current stack is **Front-End**
 * 🧠  I'm currently learning Backend
 * ✉️  You can contact me at [Gianluca1996@gmx.de](mailto:Gianluca1996@gmx.de)
-* ⚡  Fun fact: created interfaces for World of Warcraft and my friends did 0.1% worldwide titles with it and world top 200 curves.
+* ⚡  Fun fact: created interfaces for World of Warcraft and my friends did 0.1% worldwide titles with it and world top 200 Raid clears.
 
 ### Skills
 
