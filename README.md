@@ -9,7 +9,7 @@ I've started coding 2022 when i've created some wow interfaces and looked a bit 
 
 * 🌍  I'm based in Bavaria, Munich
 * 🚀   My current stack is **Front-End**
-* 🧠  I'm currently learning Node.js
+* 🧠  I'm currently on my final project for SuperCode
 * ✉️  You can contact me at [Gianluca1996@gmx.de](mailto:Gianluca1996@gmx.de)
 * ⚡  Fun fact: created interfaces for World of Warcraft and my friends did 0.1% worldwide titles with it and world top 200 Raid clears.
 
