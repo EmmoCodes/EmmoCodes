@@ -7,7 +7,7 @@ Full-Stack-Developer
 
 I've started coding 2022 when i've created some wow interfaces and looked a bit into LUA code. After that i realized that coding is completely my type of hobby and want to do this as my job. Now i'm here completed the Fullstack Bootcamp at Supercode and learning Typescript at the moment.
 * 🌍  I'm based in Bavaria, Munich
-* 🚀   My current stack is **Full-Stack**
+* 🚀    My current stack is **Full-Stack**
 * 🧠  I'm currently learning Typescript
 * ✉️  You can contact me at [Gianluca1996@gmx.de](mailto:Gianluca1996@gmx.de)
 * ⚡  Fun fact: created interfaces for World of Warcraft and my friends did 0.1% worldwide titles with it and world top 200 Raid clears.
