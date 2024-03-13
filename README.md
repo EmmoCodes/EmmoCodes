@@ -9,7 +9,7 @@ I've started coding in 2022 and looked a bit into LUA to create some interfaces 
 
 - 📫 How to reach me **Gianluca1996@gmx.de**
 
-- ⚡ Fun fact **I created interfaces for semi professional gamers.**
+- ⚡ Fun fact **I created interfaces for semi professional gamer.**
 
 <p align="left">
 </p>
