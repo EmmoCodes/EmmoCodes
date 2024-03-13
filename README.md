@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
+I've started coding in 2022 and looked a bit into LUA to create some interfaces for my friends and me, after that i realized that i really like coding. Now I'm here finished the bootcamp as fullstack web developer and wanna do this as my job.
+
 - 🔭 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **Gianluca1996@gmx.de**
