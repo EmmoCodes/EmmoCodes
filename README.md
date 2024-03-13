@@ -11,7 +11,6 @@ I've started coding in 2022 and looked a bit into LUA to create some interfaces 
 
 - ⚡ Fun fact **I created interfaces for semi professional gamers.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
