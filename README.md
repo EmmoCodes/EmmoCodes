@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
-I've started coding in 2022 and looked a bit into LUA to create some interfaces for my friends and me, after that i realized that i really like coding. Now I'm here finished the bootcamp as fullstack web developer and wanna do this as my job.
+As an aspiring Junior Web Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in web development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to the web development industry.
 
 - 🔭 I’m currently learning **TypeScript**
 
