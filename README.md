@@ -7,7 +7,7 @@ As an aspiring Junior Web Developer, I'm passionate about the world of coding an
 
 - 🔭 I’m currently learning **TypeScript**
 
-- 💻 Currently working on my **Portfolio**.
+- 💻  **Portfolio: https://orlandidev.com/**
 
 - 📫 How to reach me **Gianluca1996@gmx.de**
 
