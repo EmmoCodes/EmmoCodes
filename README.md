@@ -5,7 +5,7 @@
 
 As an aspiring Junior Web Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in web development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to the web development industry.
 
-- 🔭 I’m currently working on **2 older projects making them full responsive**
+- 🔭 I’m currently working on **2 older projects, making them full responsive**
 
 - 💻  **Portfolio: https://orlandidev.com/**
 
