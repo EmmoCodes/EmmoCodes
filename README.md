@@ -9,8 +9,6 @@ As an aspiring Junior Web Developer, I'm passionate about the world of coding an
 
 - 💻  **Portfolio: https://orlandidev.com/**
 
-- 📫 How to reach me **Gianluca1996@gmx.de**
-
 - ⚡ Fun fact **I created interfaces for semi professional gamer.**
 
 <p align="left">
