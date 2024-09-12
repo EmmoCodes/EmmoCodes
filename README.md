@@ -13,3 +13,4 @@ As an aspiring Junior Web Developer, I'm passionate about the world of coding an
 
 <p align="left">
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
