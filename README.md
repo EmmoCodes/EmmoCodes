@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate junior frontend developer from munich</h3>
+<h3 align="center">A passionate junior fullstack developer from munich</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
