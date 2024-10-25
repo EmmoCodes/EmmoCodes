@@ -15,8 +15,4 @@ As an aspiring Junior Web Developer, I'm passionate about the world of coding an
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/EmmoCodes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/EmmoCodes/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/EmmoCodes/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/EmmoCodes/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-EmmoCodes)](https://github.com/anuraghazra/github-readme-stats)
