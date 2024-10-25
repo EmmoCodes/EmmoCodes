@@ -1,6 +1,3 @@
-
-![Banner](https://64.media.tumblr.com/0fa488fe6ccfd2b65e7973159cf00a14/501b9516989ec5bd-91/s640x960/c0ff93cd07fa058c7eb01ec1f0a1d5ec5e996b1a.gif)
-
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate junior fullstack developer from munich</h3>
 
