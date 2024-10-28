@@ -16,3 +16,4 @@ As an aspiring Junior Developer, I'm passionate about the world of coding and cr
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,go,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&hide=scss,html,css&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmocodes&show_icons=true&locale=en&layout=compact" alt="emmocodes" /></p>
