@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
-As an aspiring Junior Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to the web development industry.
+As an aspiring Junior Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to web development industry.
 
 - 🔭 I’m currently expanding my knowledge of **backend** development **using Go** and **various other tools**..
 
