@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
-As an aspiring Junior Web Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in web development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to the web development industry.
+As an aspiring Junior Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to the web development industry.
 
-- 🔭 I’m currently increasing my knowledge in **Backend**.
+- 🔭 I’m currently increasing my knowledge in **backend with Go** and various other **backend tools**.
 
 - 💻  **Portfolio: https://orlandidev.com/**
 
@@ -13,7 +13,7 @@ As an aspiring Junior Web Developer, I'm passionate about the world of coding an
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,go,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
