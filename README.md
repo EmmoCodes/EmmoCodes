@@ -5,7 +5,7 @@
 
 I'm a curious and passionate learner with a wide range of interests in technology and beyond. I love exploring new tools, languages, and frameworks, and I'm always diving into something new that excites me. My goal is to keep growing and experimenting.
 
-- 🔭 Right now, I'm exploring a variety of topics—whatever sparks my curiosity and helps me grow. I believe in learning by doing, so I'm constantly building small projects, experimenting, and sharing what I learn along the way.
+- 🔭 Right now, I'm exploring a variety of topics—whatever sparks my curiosity and helps me grow. I believe in learning by doing, so I'm constantly experimenting, and trying something new.
 
 - 💻  **Portfolio: https://orlandidev.com/**
 
