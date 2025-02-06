@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
-As an aspiring Junior Developer, I'm passionate about the world of coding and crafting compelling online experiences. With my enthusiasm for technology and a commitment to continuous improvement, I'm eager to expand my skills in development. Through my education and hands-on experience, I have gained a solid foundation in various programming languages and development tools. I'm motivated to tackle new challenges, learn from experienced developers, and develop innovative solutions to make a positive contribution to web development industry.
+I'm a curious and passionate learner with a wide range of interests in technology and beyond. I love exploring new tools, languages, and frameworks, and I'm always diving into something new that excites me. My goal is to keep growing and experimenting.
 
-- 🔭 I’m currently expanding my knowledge of **backend** development **learning Go** and **various other tools**..
+- 🔭 Right now, I'm exploring a variety of topics—whatever sparks my curiosity and helps me grow. I believe in learning by doing, so I'm constantly building small projects, experimenting, and sharing what I learn along the way.
 
 - 💻  **Portfolio: https://orlandidev.com/**
 
