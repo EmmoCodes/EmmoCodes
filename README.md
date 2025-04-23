@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmocodes&label=Profile%20views&color=0e75b6&style=flat" alt="emmocodes" /> </p>
 
@@ -10,6 +10,8 @@ I'm a curious learner with a wide range of interests in technology and beyond. I
 - 💻  **Portfolio: https://orlandidev.com/**
 
 - ⚡ Fun fact **I created interfaces for semi professional gamer.**
+
+**#neovim #tmux #primeagenEnjoyer #usingArchBTW**
 
 <p align="left">
 
