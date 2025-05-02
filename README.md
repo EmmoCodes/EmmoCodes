@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
+<h1 align="center">Hi there 🥷🏻</h1>
 <h3 align="center">Software Developer</h3>
 
-I'm a curious learner with a wide range of interests in technology and beyond. I love exploring new tools, languages, and frameworks, and I'm always diving into something new that excites me. My goal is to keep growing and experimenting.
-
-- 🔭 Right now, I'm exploring a variety of topics—whatever sparks my curiosity and helps me grow. I believe in learning by doing, so I'm constantly experimenting, and trying something new.
-
-- 💻  **Portfolio: https://orlandidev.com/**
-
-- ⚡ Fun fact **I created interfaces for semi professional gamer.**
+**Just a guy looking to make my developer workflow more awesome, understanding systems and build software from scratch.**
+- **Webdev_portfolio: https://orlandidev.com/**
+- **>>more software related stuff coming<<**
 
 **#neovim #tmux #primeagenEnjoyer #usingArchBTW**
 
