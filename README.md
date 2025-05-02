@@ -14,7 +14,6 @@ I'm a curious learner with a wide range of interests in technology and beyond. I
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,go,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
-
 ---
 
 ## 📊 GitHub Stats:
