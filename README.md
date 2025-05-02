@@ -20,7 +20,7 @@ I'm a curious learner with a wide range of interests in technology and beyond. I
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmmoCodes&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmoCodes&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ---
 
