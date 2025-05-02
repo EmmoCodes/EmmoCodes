@@ -15,11 +15,8 @@ I'm a curious learner with a wide range of interests in technology and beyond. I
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,express,go,figma,git,github,neovim,sass,tailwind,)](https://skillicons.dev)
 ---
-
-## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmmoCodes&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&hide=html,css,scss&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
-
 ---
 
 
