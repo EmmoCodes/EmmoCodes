@@ -9,7 +9,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,nodejs,go,docker,mysql,sqlite,arch,linux,git,github,neovim,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,vite,react,nodejs,docker,mysql,sqlite,arch,linux,git,neovim)](https://skillicons.dev)
 ---
 ![](https://github-readme-stats.vercel.app/api?username=EmmoCodes&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmoCodes&hide=html,css,scss&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
