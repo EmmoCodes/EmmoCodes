@@ -2,10 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 **Just a guy looking to make my developer workflow more awesome, understanding systems and build software from scratch.**
-- **Webdev_portfolio: https://orlandidev.com/**
-- **>>more software related stuff coming<<**
-
-**#neovim #tmux #primeagenEnjoyer #usingArchBTW**
+- **>>transitioning to software related code<<**
 
 <p align="left">
 
